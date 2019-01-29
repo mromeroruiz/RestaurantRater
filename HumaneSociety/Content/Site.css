@@ -1,17 +1,8 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-color: slategray;
 }
-#bar {
-    background-color: darkslateblue;
-}
-#foot {
-    background-color: white;
-    opacity:.8;
-    width: 100%;
 
-}
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
